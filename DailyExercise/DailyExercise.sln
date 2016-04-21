@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.24720.0
+VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitAction", "BitAction\BitAction.csproj", "{E3EAB694-2C0D-4DE3-BCAE-B77B04F09553}"
 EndProject
@@ -10,6 +10,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringTest", "StringTest\StringTest.csproj", "{51FF0688-C65E-4B67-B6C6-D19FFC7C5456}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiThreading", "MultiThreading\MultiThreading.csproj", "{03798A21-0FB4-4EFD-9371-A9B52F4AE2EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModifyString", "ModifyString\ModifyString.csproj", "{9F42652C-0633-42EA-8F09-93ADE27DB2FC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{03798A21-0FB4-4EFD-9371-A9B52F4AE2EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03798A21-0FB4-4EFD-9371-A9B52F4AE2EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03798A21-0FB4-4EFD-9371-A9B52F4AE2EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F42652C-0633-42EA-8F09-93ADE27DB2FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F42652C-0633-42EA-8F09-93ADE27DB2FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F42652C-0633-42EA-8F09-93ADE27DB2FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F42652C-0633-42EA-8F09-93ADE27DB2FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
